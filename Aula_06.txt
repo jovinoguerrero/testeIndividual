@@ -1,0 +1,77 @@
+    1  git config --global user.name'[Dingo]'
+    2  git config
+    3  git config --get-all
+    4  git config --get user.name
+    5  git config --get user.email
+    6  git config --get user.password
+    7  cd Toti
+    8  cd Documentos
+    9  cd Documents
+   10  cd Toti
+   11  cd Toti
+   12  ls
+   13  cd ..
+   14  ls
+   15  git init
+   16  cd Aula 03 - Git
+   17  ls
+   18  cd 'Aula 03 - Git'
+   19  ls
+   20  .ls
+   21  ls.
+   22  ls .
+   23  clear
+   24  git status
+   25  echo '#Aprendendo usar o Git' > readme.md
+   26  ls
+   27  git status
+   28  git add readme.md
+   29  git status
+   30  git status
+   31  git commit -m 'Commit Inicial'
+   32  git status
+   33  echo '##Aula 1' >> readme.md
+   34  git status
+   35  echo 'Dingo' > participantes.txt
+   36  git status
+   37  git add.
+   38  git status
+   39  git add .
+   40  git status
+   41  git restore --staged participante.txt
+   42  git restore --staged participantes.txt
+   43  git status
+   44  git add participantes.txt
+   45  git status
+   46  git restore --staged .
+   47  git status
+   48  git commit -am 'Alteração no readme'
+   49  git status
+   50  git add participantes.txt
+   51  git status
+   52  git commit -m 'Adicionado participantes.txt'
+   53  git status
+   54  history > Aula_03.txt
+   55  git status
+   56  git add .
+   57  git commit -m 'Comandos da Aula 03'
+   58  git log
+   59  git log
+   60  git config --global alias.lopgpg 'log --pretty=oneline --graph'
+   61  git logpg
+   62  git logpg
+   63  git config --global alias.logpg 'log --pretty=oneline --graph'
+   64  git logpg
+   65  clear
+   66  git logpg
+   67  git config alias.CAM 'commit -am'
+   68  git CAM
+   69  git status
+   70  git CAM asdasd
+   71  git logpg
+   72  git tag -a v0.1 -m 'Até a Aula 5'
+   73  git logpg
+   74  git checkout master
+   75  git rebase feature
+   76  git logpg
+   77  history > Aula_06.txt
